@@ -1,0 +1,138 @@
+<html>
+<head>
+<title>Lata Mangeshkar- Tribute page</title>
+    <style>
+   html {
+   font-family: Noto Serif, serif;
+   font-size: 10px;
+   font-weight: 150;
+   color: black;
+   background:linear-gradient(90deg,rgba(131,58,180,1)0%,rgba(131,58,180,1)0%,rgba(252,176,69,1)100%); 
+ }
+   body {
+   font-size: 1.6rem;
+   margin: 0 auto;
+   width: 70vw;
+   text-align: center;
+ }
+   a {
+   color: blue;
+   text-decoration: none;
+ }
+   h1 {
+   font-family: Noto Sans JP, sans-serif;
+   font-size: 4rem;
+   color: black;
+ }
+   .subtitle {
+   font-family: Noto Sans JP, sans-serif;
+   font-size: 2rem;
+   color: black; 
+ }
+   h2 {
+   font-family: Noto Sans JP, sans-serif;
+   font-size: 2.8rem;
+   margin: 50px 0 25px 0;
+   text-align: center;
+ }
+   h3 {
+   font-family: Noto Sans JP, sans-serif;
+   font-size: 2rem;
+   font-weight: 600;
+   margin: 40px 0 5px 0;
+   color: black;
+   font-color: red;
+ }
+   section {
+   text-align: left;
+ }
+   #image {
+   display: block;
+   max-width: 95%;
+   height: auto;
+   margin: 0 auto;
+   border-radius: 25px;
+ }
+   #img-caption {
+   font-family: Noto Sans JP, sans-serif;
+   margin-top: 20px;
+ }
+   
+ </style>
+</head>
+<body>
+<main id="main">
+<header>
+<h1 id="title">Lata Mangeshkar</h1>
+</header>
+<figure id="img-div">
+<img class="lift-animation" id="image" src="D:\sandip\o.jpg" height="100"/></a>
+</figure>
+
+<section id="tribute-info">
+<h3>Early Life</h3>
+<p>
+Lata Mangeshkar was born on September 28, 1929, in Indore, Central Provinces (now Madhya Pradesh). She was the eldest daughter among the five children of Dinanatha and Shevanti Mangeshkar who belonged to a Maharashtrian Brahmin family. 
+Dinanath hailed from the town of Mangeshi in Goa and he changed his last name from Haridkar to Mangeshkar to identify with his hometown. Her father Pandit Deenanath Mangeshkar was an accomplished classical singer and stage actor. 
+Lata was initially named Hema when she was born, but later her father renamed her Lata, inspired by a character in one of his plays. She had four siblings, three sisters, Meena, Asha, and Usha; and one brother, Hridaynath. 
+All five Mangeshkar siblings learned classical music from their father.
+</p>
+
+<h3>career</h3>
+<p>
+Lata Mangeshkar has had an illustrious career in various roles, better at some than others. 
+A God-gifted voice led her to become the most successful and celebrated female playback singer from the 1940s to the 1980s. 
+Starting from Vaijayantimala till Preity Zinta, she has lent her voice to all leading ladies of Bollywood. Her songs had touched the hearts of millions throughout the years and across borders. 
+She also did some acting at the start of her career. Her attempts as a music director were not as successful as her singing career.
+</p>
+
+<h3>Payback singer</h3>
+<p>
+Lataji started her career in 1942, right after the death of her father. Vinayak Damodar Karnataki, a family friend helped her get jobs as an actress in Marathi and Hindi Films.
+The beginning years of her career were quite rocky as young Lata struggled to find her foothold in the industry. Her first song as a playback singer was ‘NaachuYaa Gade, Khelu Saari Mani Haus Bhaari’ for a Marathi film Kiti Hasaal with composer Sadashivrao Nevrekar. 
+During the 1950s, she worked in successful films like Baiju Bawra (1952), Mother India (1957), Devdas (1955), Chori Chori (1956,) and Madhumati (1958). 
+She won her first Filmfare Award for Best Female Playback Singer in 1958 for the song ‘Aaja Re Pardesi’ from the film Madhumati with music director Salil Chowdhury.
+From the 1990s onwards, Lataji worked with music directors like Anu Malik, Jatin Lalit, and A.R. Rahman. Films like Dilwale Dulhania Le Jayenge, Hum aapke Hain Kaun, Dil Se, and Rang De Basanti featured acclaimed songs sung by Lataji. 
+She gradually decreased the volume of her work due to health reasons, singing selective compositions. She launched several albums during her musical career including Chala Vahi Des (1979) with Brother Hridaynath Mangeshkar, Ram Ratan Dhan Payo (1983) and Shraddanjali-My Tribute to the Immortals (1994).
+</p>
+
+<h3>Music director</h3>
+<p>
+Lata Mangeshkar also assumed the role of music director for several Marathi Films, the first of which was Ram Ram Pavhane in 1955. 
+Her other projects were Maratha Tituka Melvava (1963), Mohityanchi Manjula (1963), Sadhi Manase (1965), and Tambadi Mati (1969). 
+She won Maharashtra State Government's Best Music Director Award for the film Sadhi Manase with the song ‘Airanichya Deva receiving the best song award. 
+</p>
+
+<h3>Producer</h3>
+<p>
+As a producer, Lata Mangeshkar made four films - Vaadal, a Marathi language film in 1953, Jhaanjhar with C. Ramchandra as co-producer in 1953, Kanchan in 1955 and Lekin…, the directorial venture of lyricist Gulzar in 1990.
+She launched her own music label in 2012 called LM Music and released a Devotional album along with her younger sister Usha Mangeshkar.
+</p>
+
+<h3>Awards and Achievements</h3>
+<p>
+Lataji has received numerous awards and honors for her illustrious career as a playback singer. 
+Some of the Awards she won are Padma Bhushan (1969)<br>
+Dadasaheb Phalke Award (1989),<br>
+Padma Vibhushan (1999), <br>
+Maharashtra Bhushan Award (1997), <br>
+NTR National Award (1999), and ANR National Award (2009).<br>
+She was awarded the Bharat Ratna, India's Highest Civilian Award in 2001.<br> 
+She won 3 National Film Awards (1972, 1974, 1990), <br>
+and 12 Bengal Film Journalists' Association Awards (1964, 1967-1973, 1975, 1981, 1983, 1985, 1987, 1991).<br>
+She has also won the Filmfare Awards for Best Female Playback Singer four times (1958, 1962, 1965, 1969, 1993, 1994).<br>
+She was awarded the Filmfare Lifetime Achievement Award in 1993. <br>
+</p>
+
+<h3>Controversies</h3>
+<p>
+Lataji has had to go through her share of controversies as well. Her relationship with S. D. Burman soured as the two had an altercation and the duo did not work between 1958 and 1962. 
+She also had a difference of opinion with Mohammed Rafi over the issue of royalty. She was constantly pitted against her own sister Asha Bhosle for the number one spot. 
+There was a controversy over the Guinness Record in 1974, where Lataji was named as the most recorded artist in history as she recorded "not less than 25,000 solo, duet and chorus backed songs in 20 Indian languages" between 1948 and 1974.
+ Mohammed Rafi contested the statistics, and after 1991 they record was discontinued from the Guinness Book of Records.
+</p>
+<a href="https://en.wikipedia.org/wiki/Lata_Mangeshkar"><u>click here for more information about lata mangeshkar </u><br>
+</section>
+</main>
+</body>
+</html>
